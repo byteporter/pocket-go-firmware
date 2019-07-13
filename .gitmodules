@@ -4,3 +4,6 @@
 [submodule "buildroot"]
 	path = buildroot
 	url = git@github.com:byteporter/buildroot.git
+[submodule "u-boot"]
+	path = u-boot
+	url = git@github.com:byteporter/u-boot.git
